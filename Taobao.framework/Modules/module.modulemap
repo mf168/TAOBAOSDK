@@ -1,0 +1,6 @@
+framework module Taobao {
+  umbrella header "Taobao.h"
+
+  export *
+  module * { export * }
+}
